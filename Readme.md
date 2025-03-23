@@ -1,7 +1,7 @@
 # 🎯 Badge Notification System
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/71acaa84-0270-47c3-9cee-5233cb5694ae" width="45%">
-  <img src="https://github.com/user-attachments/assets/64fecf32-e957-477e-94c9-844a3bd10c8e" width="45%">
+  <img src="https://github.com/user-attachments/assets/71acaa84-0270-47c3-9cee-5233cb5694ae" width="25%">
+  <img src="https://github.com/user-attachments/assets/64fecf32-e957-477e-94c9-844a3bd10c8e" width="35%">
 </p>
 
 This system adds **badge notifications** to UI elements in Unity, showing numbers or symbols to indicate updates.
