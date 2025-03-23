@@ -35,6 +35,6 @@ BadgeManager.Instance.ClearBadge(BadgeID.Shop);
 
 You can customize the system to support numerical notifications as well by modifying the BadgeType enum to include more types of badges. 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/541b6406-08c3-4588-bc46-a03a2441a311" width="50%">
-  <img src="https://github.com/user-attachments/assets/9016fdb1-5ed3-44e2-a1f4-7192a02763b1" width="50%">
+  <img src="https://github.com/user-attachments/assets/541b6406-08c3-4588-bc46-a03a2441a311" width="30%">
+  <img src="https://github.com/user-attachments/assets/9016fdb1-5ed3-44e2-a1f4-7192a02763b1" width="30%">
 </p>
