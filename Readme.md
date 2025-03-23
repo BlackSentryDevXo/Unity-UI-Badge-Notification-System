@@ -1,4 +1,6 @@
 # 🎯 Badge Notification System
+![IMG_5661](https://github.com/user-attachments/assets/71acaa84-0270-47c3-9cee-5233cb5694ae)
+![IMG_5662](https://github.com/user-attachments/assets/64fecf32-e957-477e-94c9-844a3bd10c8e)
 
 This system adds **badge notifications** to UI elements in Unity, showing numbers or symbols to indicate updates.
 
@@ -30,4 +32,6 @@ BadgeManager.Instance.ClearBadge(BadgeID.Shop);
 ```
 
 You can customize the system to support numerical notifications as well by modifying the BadgeType enum to include more types of badges. 
+![IMG_5659](https://github.com/user-attachments/assets/541b6406-08c3-4588-bc46-a03a2441a311)
+![IMG_5660](https://github.com/user-attachments/assets/9016fdb1-5ed3-44e2-a1f4-7192a02763b1)
 
