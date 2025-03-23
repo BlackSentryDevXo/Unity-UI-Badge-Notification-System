@@ -23,10 +23,11 @@ This system adds **badge notifications** to UI elements in Unity, showing number
 To set a badge (e.g., shop):
 ```csharp
 BadgeManager.Instance.SetBadge(BadgeID.Shop);
-
+````
 To clear a badge (e.g., remove badge on shop):
 ```csharp
 BadgeManager.Instance.ClearBadge(BadgeID.Shop);
+```
 
 You can customize the system to support numerical notifications as well by modifying the BadgeType enum to include more types of badges. 
 
